@@ -9,3 +9,14 @@ C:\Users\MegaOS\Documents\scandiag\obj\Debug\scandiag.csproj.GenerateResource.ca
 C:\Users\MegaOS\Documents\scandiag\obj\Debug\scandiag.csproj.CoreCompileInputs.cache
 C:\Users\MegaOS\Documents\scandiag\obj\Debug\scandiag.exe
 C:\Users\MegaOS\Documents\scandiag\obj\Debug\scandiag.pdb
+C:\Users\gokei\Documents\scandiag\bin\Debug\scandiag.exe.config
+C:\Users\gokei\Documents\scandiag\bin\Debug\scandiag.exe
+C:\Users\gokei\Documents\scandiag\bin\Debug\scandiag.pdb
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.csproj.AssemblyReference.cache
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.Form1.resources
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.Properties.Resources.resources
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.csproj.GenerateResource.cache
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.csproj.CoreCompileInputs.cache
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.exe
+C:\Users\gokei\Documents\scandiag\obj\Debug\scandiag.pdb
